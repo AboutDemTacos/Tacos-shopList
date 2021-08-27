@@ -1,16 +1,6 @@
 {
 	"incitems" : [
 	{
-		"abr": "tornado",
-		"price": 800,
-		"karmatype": "Bad"
-	},
-	{
-		"abr": "tornados",
-		"price": 2600,
-		"karmatype": "Bad"
-	},
-	{
 		"abr": "clearweather",
 		"price": 400,
 		"karmatype": "Good"
@@ -22,8 +12,8 @@
 	},
 	{
 		"abr": "vomitrain",
-		"price": 650,
-		"karmatype": "Neutral"
+		"price": 1500,
+		"karmatype": "Bad"
 	},
 	{
 		"abr": "foggyrain",
@@ -72,7 +62,7 @@
 	},
 	{
 		"abr": "solarflare",
-		"price": 500,
+		"price": 10000,
 		"karmatype": "Bad"
 	},
 	{
@@ -82,12 +72,12 @@
 	},
 	{
 		"abr": "toxicfallout",
-		"price": 6500,
+		"price": 7500,
 		"karmatype": "Doom"
 	},
 	{
 		"abr": "volcanicwinter",
-		"price": 3200,
+		"price": 5000,
 		"karmatype": "Doom"
 	},
 	{
@@ -111,13 +101,13 @@
 		"karmatype": "Good"
 	},
 	{
-		"abr": "resourcepodcrash",
-		"price": 300,
+		"abr": "wandererjoins",
+		"price": 50,
 		"karmatype": "Good"
 	},
 	{
-		"abr": "transportpodcrash",
-		"price": 600,
+		"abr": "resourcepodcrash",
+		"price": 300,
 		"karmatype": "Good"
 	},
 	{
@@ -227,11 +217,6 @@
 	},
 	{
 		"abr": "raid",
-		"price": 1500,
-		"karmatype": "Bad"
-	},
-	{
-		"abr": "dropraid",
 		"price": 1500,
 		"karmatype": "Bad"
 	},
@@ -357,7 +342,7 @@
 	},
 	{
 		"abr": "surgery",
-		"price": 500,
+		"price": 1,
 		"karmatype": "Neutral"
 	},
 	{
@@ -382,7 +367,7 @@
 	},
 	{
 		"abr": "passion",
-		"price": 7000,
+		"price": 4000,
 		"karmatype": "Good"
 	},
 	{
@@ -397,6 +382,11 @@
 	},
 	{
 		"abr": "settraits",
+		"price": 1,
+		"karmatype": "Neutral"
+	},
+	{
+		"abr": "cleartraits",
 		"price": 1,
 		"karmatype": "Neutral"
 	},
@@ -436,5 +426,5 @@
 		"karmatype": "Good"
 	}
 	],
-	"total": 87
+	"total": 85
 }
