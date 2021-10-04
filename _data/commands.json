@@ -589,23 +589,6 @@
       "mod": "ToolkitUtils"
     },
     "description": null,
-    "name": "Full heal",
-    "usage": "!fullheal",
-    "userLevel": "Anyone",
-    "shortcut": true
-  },
-  {
-    "data": {
-      "isShortcut": true,
-      "isBuy": false,
-      "isBalance": false,
-      "hasGlobalCooldown": false,
-      "globalCooldown": 0,
-      "hasLocalCooldown": false,
-      "localCooldown": 0,
-      "mod": "ToolkitUtils"
-    },
-    "description": null,
     "name": "Rescue me",
     "usage": "!rescueme",
     "userLevel": "Anyone",

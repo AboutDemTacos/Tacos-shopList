@@ -9,19 +9,13 @@
     "author": "UnlimitedHugs",
     "name": "HugsLib",
     "steamId": "818773962",
-    "version": "9.0.0"
+    "version": "9.0.1"
   },
   {
     "author": "Fluffy",
     "name": "Mod Manager",
     "steamId": "1507748539",
     "version": "3.8.1038"
-  },
-  {
-    "author": "CE Team",
-    "name": "Combat Extended",
-    "steamId": "1631756268",
-    "version": "1.3.4.2"
   },
   {
     "author": "hodlhodl",
@@ -72,6 +66,24 @@
     "version": "1.0.0.0"
   },
   {
+    "author": "Oskar Potocki,  XeoNovaDan,  Orion,  Kikohi,  Taranchuk,  Sarg Bjornson and  Erdelf",
+    "name": "Vanilla Expanded Framework",
+    "steamId": "2023507013",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Oskar Potocki and  XeoNovaDan",
+    "name": "Vanilla Factions Expanded - Medieval",
+    "steamId": "2023513450",
+    "version": "1.0.6.0"
+  },
+  {
+    "author": "CE Team",
+    "name": "Combat Extended",
+    "steamId": "1631756268",
+    "version": "1.3.4.2"
+  },
+  {
     "author": "Atlas and  aRandomKiwi",
     "name": "Android tiers",
     "steamId": "1386412863",
@@ -105,7 +117,7 @@
     "author": "CrashM",
     "name": "CM Color Coded Mood Bar [1.1+]",
     "steamId": "2006605356",
-    "version": "1.3.3102.1"
+    "version": "1.3.3136.1"
   },
   {
     "author": "AUTOMATIC",
@@ -204,12 +216,6 @@
     "version": null
   },
   {
-    "author": "Oskar Potocki,  XeoNovaDan,  Orion,  Kikohi,  Taranchuk,  Sarg Bjornson and  Erdelf",
-    "name": "Vanilla Expanded Framework",
-    "steamId": "2023507013",
-    "version": "1.0.0.0"
-  },
-  {
     "author": "Oskar Potocki,  Kikohi and  Helixien",
     "name": "Vanilla Events Expanded",
     "steamId": "1938420742",
@@ -243,7 +249,7 @@
     "author": "Dubwise",
     "name": "Dubs Mint Minimap",
     "steamId": "1662119905",
-    "version": "1.3.767"
+    "version": "1.2.7365"
   },
   {
     "author": "Kosaro",
@@ -262,5 +268,59 @@
     "name": "Inspiration Tweaks",
     "steamId": "2117570018",
     "version": "1.0.0.0"
+  },
+  {
+    "author": "targhetti",
+    "name": "Show Draftees Weapon",
+    "steamId": "1690978457",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Murmur",
+    "name": "Infestations Spawn in Darkness",
+    "steamId": "2017514331",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Murmur",
+    "name": "Pawn Name Variety",
+    "steamId": "2159633754",
+    "version": "0.0.0.0"
+  },
+  {
+    "author": "Oskar Potocki,  Sarg Bjornson and  Chowder",
+    "name": "Vanilla Brewing Expanded",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Vanilla Expanded team",
+    "name": "Vanilla Factions Expanded - Vikings",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Weilbyte",
+    "name": "Snap Out!",
+    "steamId": "1319782555",
+    "version": "0.7.5"
+  },
+  {
+    "author": "void",
+    "name": "Character Editor",
+    "steamId": "1874644848",
+    "version": "1.3.842.0"
+  },
+  {
+    "author": "The Biomes Mod Team",
+    "name": "Biomes! Core",
+    "steamId": "2038000893",
+    "version": "2.0.0-beta"
+  },
+  {
+    "author": "Zylle",
+    "name": "More Vanilla Biomes",
+    "steamId": "1931453053",
+    "version": "0.1.5.01"
   }
 ]
