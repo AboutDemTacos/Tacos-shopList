@@ -6587,7 +6587,319 @@
 		"price": 592,
 		"category": "Ranged weapons",
 		"defname": "VWE_Gun_ServiceRifle"
+	},
+	{
+		"abr": "shovel",
+		"price": 327,
+		"category": "Melee weapons",
+		"defname": "VWE_MeleeWeapon_Shovel"
+	},
+	{
+		"abr": "smg",
+		"price": 442,
+		"category": "Ranged weapons",
+		"defname": "VWE_Gun_SMG"
+	},
+	{
+		"abr": "throwingknives",
+		"price": 9,
+		"category": "Ranged weapons",
+		"defname": "VWE_Throwing_Knives"
+	},
+	{
+		"abr": "throwingrocks",
+		"price": -10,
+		"category": "Ranged weapons",
+		"defname": "VWE_Throwing_Rocks"
+	},
+	{
+		"abr": "toxicgrenades",
+		"price": 4,
+		"category": "Grenades",
+		"defname": "VWE_ToxicGrenade"
+	},
+	{
+		"abr": "whip",
+		"price": 203,
+		"category": "Ranged weapons",
+		"defname": "VWE_Tool_Whip"
+	},
+	{
+		"abr": "wrench",
+		"price": 277,
+		"category": "Melee weapons",
+		"defname": "VWE_MeleeWeapon_Wrench"
+	},
+	{
+		"abr": "jelliedchemfuel",
+		"price": 1,
+		"category": "Flamethrower fuel",
+		"defname": "Ammo_Flamethrower_Napalm"
+	},
+	{
+		"abr": "jelliedprometheum",
+		"price": 1,
+		"category": "Flamethrower fuel",
+		"defname": "Ammo_Flamethrower_Prometheum"
+	},
+	{
+		"abr": "12gaugechargedshell",
+		"price": 5,
+		"category": "12Gauge Charged",
+		"defname": "Ammo_12GaugeCharged"
+	},
+	{
+		"abr": "12gaugechargedshell(slug)",
+		"price": 5,
+		"category": "12Gauge Charged",
+		"defname": "Ammo_12GaugeCharged_Slug"
+	},
+	{
+		"abr": "12gaugechargedshell(ionshot)",
+		"price": 5,
+		"category": "12Gauge Charged",
+		"defname": "Ammo_12GaugeCharged_Ion"
+	},
+	{
+		"abr": "6x18mmchargedcartridge",
+		"price": 1,
+		"category": "6x18mm Charged",
+		"defname": "Ammo_6x18mmCharged"
+	},
+	{
+		"abr": "6x18mmchargedcartridge(conc.)",
+		"price": 1,
+		"category": "6x18mm Charged",
+		"defname": "Ammo_6x18mmCharged_AP"
+	},
+	{
+		"abr": "6x18mmchargedcartridge(ion)",
+		"price": 1,
+		"category": "6x18mm Charged",
+		"defname": "Ammo_6x18mmCharged_Ion"
+	},
+	{
+		"abr": "8x35mmchargedcartridge",
+		"price": 3,
+		"category": "8x35mm Charged",
+		"defname": "Ammo_8x35mmCharged"
+	},
+	{
+		"abr": "8x35mmchargedcartridge(conc.)",
+		"price": 3,
+		"category": "8x35mm Charged",
+		"defname": "Ammo_8x35mmCharged_AP"
+	},
+	{
+		"abr": "8x35mmchargedcartridge(ion)",
+		"price": 3,
+		"category": "8x35mm Charged",
+		"defname": "Ammo_8x35mmCharged_Ion"
+	},
+	{
+		"abr": ".50bmgcartridge(fmj)",
+		"price": 1,
+		"category": ".50 BMG",
+		"defname": "Ammo_50BMG_FMJ"
+	},
+	{
+		"abr": ".50bmgcartridge(ap-i)",
+		"price": 1,
+		"category": ".50 BMG",
+		"defname": "Ammo_50BMG_Incendiary"
+	},
+	{
+		"abr": ".50bmgcartridge(ap-he)",
+		"price": 2,
+		"category": ".50 BMG",
+		"defname": "Ammo_50BMG_HE"
+	},
+	{
+		"abr": ".50bmgcartridge(sabot)",
+		"price": 1,
+		"category": ".50 BMG",
+		"defname": "Ammo_50BMG_Sabot"
+	},
+	{
+		"abr": "musketball",
+		"price": 1,
+		"category": "Musket ball",
+		"defname": "Ammo_MusketBall"
+	},
+	{
+		"abr": ".357magnumcartridge(fmj)",
+		"price": 1,
+		"category": ".357 Magnum",
+		"defname": "Ammo_357Magnum_FMJ"
+	},
+	{
+		"abr": ".357magnumcartridge(ap)",
+		"price": 1,
+		"category": ".357 Magnum",
+		"defname": "Ammo_357Magnum_AP"
+	},
+	{
+		"abr": ".357magnumcartridge(hp)",
+		"price": 1,
+		"category": ".357 Magnum",
+		"defname": "Ammo_357Magnum_HP"
+	},
+	{
+		"abr": "9x19mmparacartridge(fmj)",
+		"price": 1,
+		"category": "9x19mm Parabellum",
+		"defname": "Ammo_9x19mmPara_FMJ"
+	},
+	{
+		"abr": "9x19mmparacartridge(ap)",
+		"price": 1,
+		"category": "9x19mm Parabellum",
+		"defname": "Ammo_9x19mmPara_AP"
+	},
+	{
+		"abr": "9x19mmparacartridge(hp)",
+		"price": 1,
+		"category": "9x19mm Parabellum",
+		"defname": "Ammo_9x19mmPara_HP"
+	},
+	{
+		"abr": ".44-40winchestercartridge(fmj)",
+		"price": 1,
+		"category": ".44-40 Winchester",
+		"defname": "Ammo_44-40Winchester_FMJ"
+	},
+	{
+		"abr": ".44-40winchestercartridge(ap)",
+		"price": 1,
+		"category": ".44-40 Winchester",
+		"defname": "Ammo_44-40Winchester_AP"
+	},
+	{
+		"abr": ".44-40winchestercartridge(hp)",
+		"price": 1,
+		"category": ".44-40 Winchester",
+		"defname": "Ammo_44-40Winchester_HP"
+	},
+	{
+		"abr": ".44-40winchestercartridge(ap-i)",
+		"price": 1,
+		"category": ".44-40 Winchester",
+		"defname": "Ammo_44-40Winchester_Incendiary"
+	},
+	{
+		"abr": ".44-40winchestercartridge(he)",
+		"price": 1,
+		"category": ".44-40 Winchester",
+		"defname": "Ammo_44-40Winchester_HE"
+	},
+	{
+		"abr": ".44-40winchestercartridge(sabot)",
+		"price": 1,
+		"category": ".44-40 Winchester",
+		"defname": "Ammo_44-40Winchester_Sabot"
+	},
+	{
+		"abr": "7.62x39mmsovietcartridge(fmj)",
+		"price": 1,
+		"category": "7.62x39mm Soviet",
+		"defname": "Ammo_762x39mmSoviet_FMJ"
+	},
+	{
+		"abr": "7.62x39mmsovietcartridge(ap)",
+		"price": 1,
+		"category": "7.62x39mm Soviet",
+		"defname": "Ammo_762x39mmSoviet_AP"
+	},
+	{
+		"abr": "7.62x39mmsovietcartridge(hp)",
+		"price": 1,
+		"category": "7.62x39mm Soviet",
+		"defname": "Ammo_762x39mmSoviet_HP"
+	},
+	{
+		"abr": "7.62x39mmsovietcartridge(ap-i)",
+		"price": 1,
+		"category": "7.62x39mm Soviet",
+		"defname": "Ammo_762x39mmSoviet_Incendiary"
+	},
+	{
+		"abr": "7.62x39mmsovietcartridge(he)",
+		"price": 1,
+		"category": "7.62x39mm Soviet",
+		"defname": "Ammo_762x39mmSoviet_HE"
+	},
+	{
+		"abr": "7.62x39mmsovietcartridge(sabot)",
+		"price": 1,
+		"category": "7.62x39mm Soviet",
+		"defname": "Ammo_762x39mmSoviet_Sabot"
+	},
+	{
+		"abr": "firefoam",
+		"price": 1,
+		"category": "Firefoam",
+		"defname": "Ammo_VWE_Extinguisher"
+	},
+	{
+		"abr": "zombieextract",
+		"price": 17,
+		"category": "Serum",
+		"defname": "ZombieExtract"
+	},
+	{
+		"abr": "zombiemeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Zombie"
+	},
+	{
+		"abr": "zombieserum10%",
+		"price": 200,
+		"category": "Serum",
+		"defname": "Zombie10Serum"
+	},
+	{
+		"abr": "zombieserum100%",
+		"price": 200,
+		"category": "Serum",
+		"defname": "ZombieSerumSimple"
+	},
+	{
+		"abr": "zombieserum100%",
+		"price": 2000,
+		"category": "Serum",
+		"defname": "Zombie100Serum"
+	},
+	{
+		"abr": "zombieserum20%",
+		"price": 400,
+		"category": "Serum",
+		"defname": "Zombie20Serum"
+	},
+	{
+		"abr": "zombieserum30%",
+		"price": 600,
+		"category": "Serum",
+		"defname": "Zombie30Serum"
+	},
+	{
+		"abr": "zombieserum40%",
+		"price": 800,
+		"category": "Serum",
+		"defname": "Zombie40Serum"
+	},
+	{
+		"abr": "zombieserum50%",
+		"price": 1000,
+		"category": "Serum",
+		"defname": "Zombie50Serum"
+	},
+	{
+		"abr": "zombieserum60%",
+		"price": 1200,
+		"category": "Serum",
+		"defname": "Zombie60Serum"
 	}
 	],
-	"total": 1105
+	"total": 1153
 }
