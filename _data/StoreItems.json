@@ -4205,7 +4205,229 @@
 		"price": 5500,
 		"category": "Skill books",
 		"defname": "BookOfOracle"
+	},
+	{
+		"abr": "arcanetome:power",
+		"price": 5500,
+		"category": "Skill books",
+		"defname": "BookOfArcanist"
+	},
+	{
+		"abr": "arcanetome:pridestalker",
+		"price": 5500,
+		"category": "Skill books",
+		"defname": "BookOfPridestalker"
+	},
+	{
+		"abr": "arcanetome:priest",
+		"price": 5500,
+		"category": "Skill books",
+		"defname": "BookOfPriest"
+	},
+	{
+		"abr": "arcanetome:redmage",
+		"price": 5500,
+		"category": "Skill books",
+		"defname": "BookOfRedMage"
+	},
+	{
+		"abr": "arcanetome:runeknight",
+		"price": 5500,
+		"category": "Skill books",
+		"defname": "BookOfRuneKnight"
+	},
+	{
+		"abr": "arcanetome:scholar",
+		"price": 5500,
+		"category": "Skill books",
+		"defname": "BookOfScholar"
+	},
+	{
+		"abr": "arcanetome:shadow",
+		"price": 5500,
+		"category": "Skill books",
+		"defname": "BookOfShadow"
+	},
+	{
+		"abr": "arcanetome:shaman",
+		"price": 5500,
+		"category": "Skill books",
+		"defname": "BookOfShamanism"
+	},
+	{
+		"abr": "arcanetome:summoning",
+		"price": 5500,
+		"category": "Skill books",
+		"defname": "BookOfSummoner"
+	},
+	{
+		"abr": "arcanetome:technomancy",
+		"price": 5500,
+		"category": "Skill books",
+		"defname": "BookOfMagitech"
+	},
+	{
+		"abr": "arcanetome:troubadour",
+		"price": 5500,
+		"category": "Skill books",
+		"defname": "BookOfTroubadour"
+	},
+	{
+		"abr": "arcanetome:warden",
+		"price": 5500,
+		"category": "Skill books",
+		"defname": "BookOfWarden"
+	},
+	{
+		"abr": "arcanetome:windmage",
+		"price": 5500,
+		"category": "Skill books",
+		"defname": "BookOfWindMage"
+	},
+	{
+		"abr": "archmage'sreceipt",
+		"price": 4667,
+		"category": "Utility",
+		"defname": "TM_ArchmagesReceipt"
+	},
+	{
+		"abr": "archotecheraser",
+		"price": 1083,
+		"category": "Utility",
+		"defname": "VFEI_Artifacts_ArchotechEraser"
+	},
+	{
+		"abr": "archotechshieldbelt",
+		"price": 2183,
+		"category": "Artifacts",
+		"defname": "VFEI_Apparel_ArchotechShieldBelt"
+	},
+	{
+		"abr": "archotechteleporter",
+		"price": 1333,
+		"category": "Artifacts",
+		"defname": "VFEI_Artifacts_ArchotechTeleporter"
+	},
+	{
+		"abr": "armorofthevaliant",
+		"price": 2750,
+		"category": "Magic apparel",
+		"defname": "RoyalArmor"
+	},
+	{
+		"abr": "aurum",
+		"price": 2000,
+		"category": "Cybernetic",
+		"defname": "ANN_Aurum"
+	},
+	{
+		"abr": "autonomicviruskiller",
+		"price": 3042,
+		"category": "Cybernetic",
+		"defname": "ANN_Autonomicviruskiller"
+	},
+	{
+		"abr": "axehead",
+		"price": 833,
+		"category": "Inert relics",
+		"defname": "VIE_RelicInertAxeHead"
+	},
+	{
+		"abr": "barber'stable",
+		"price": 328,
+		"category": "Misc",
+		"defname": "VHE_TableBarber"
+	},
+	{
+		"abr": "bardspell:battlehymn",
+		"price": 2750,
+		"category": "Scrolls",
+		"defname": "SpellOf_BattleHymn"
+	},
+	{
+		"abr": "bardspell:discord",
+		"price": 1267,
+		"category": "Scrolls",
+		"defname": "SpellOf_Discord"
+	},
+	{
+		"abr": "basin",
+		"price": 52,
+		"category": "Hygiene",
+		"defname": "BasinStuff"
+	},
+	{
+		"abr": "bass",
+		"price": 2,
+		"category": "Raw fish",
+		"defname": "VCEF_RawBass"
+	},
+	{
+		"abr": "bathmat",
+		"price": 71,
+		"category": "Furniture",
+		"defname": "BathMat"
+	},
+	{
+		"abr": "bathtub",
+		"price": 124,
+		"category": "Hygiene",
+		"defname": "BathtubStuff"
+	},
+	{
+		"abr": "beltofextravagance",
+		"price": 2667,
+		"category": "Utility",
+		"defname": "BeltOfExtravagance"
+	},
+	{
+		"abr": "beltofthewilds",
+		"price": 2000,
+		"category": "Utility",
+		"defname": "BeltOfTheWilds"
+	},
+	{
+		"abr": "berserkerchip",
+		"price": 1692,
+		"category": "Cybernetic",
+		"defname": "ANN_BerserkerChip"
+	},
+	{
+		"abr": "bio-engineeringincubator",
+		"price": 1067,
+		"category": "Furniture",
+		"defname": "VFEI_BioengineeringIncubator"
+	},
+	{
+		"abr": "bionicbladder",
+		"price": 1308,
+		"category": "Bionic",
+		"defname": "BionicBladder"
+	},
+	{
+		"abr": "biosolids",
+		"price": 0,
+		"category": "Waste",
+		"defname": "Biosolids"
+	},
+	{
+		"abr": "biosolidscomposter",
+		"price": 146,
+		"category": "Hygiene",
+		"defname": "BiosolidsComposter"
+	},
+	{
+		"abr": "blackmagespell:aetherialmanipulation",
+		"price": 1500,
+		"category": "Scrolls",
+		"defname": "SpellOf_AetherialManipulation"
+	},
+	{
+		"abr": "blackmagespell:despair",
+		"price": 2667,
+		"category": "Scrolls",
+		"defname": "SpellOf_Despair"
 	}
 	],
-	"total": 1286
+	"total": 1323
 }
