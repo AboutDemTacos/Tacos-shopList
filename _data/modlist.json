@@ -45,7 +45,7 @@
     "author": "Oskar Potocki,  Kikohi and  Sarg Bjornson",
     "name": "Vanilla Factions Expanded - Insectoids",
     "steamId": "2149755445",
-    "version": "1.2.0.0"
+    "version": "1.2.3.1"
   },
   {
     "author": "Oskar Potocki and  Sarg Bjornson",
@@ -186,6 +186,12 @@
     "version": null
   },
   {
+    "author": "Little White Mouse",
+    "name": "LWM's Deep Storage",
+    "steamId": "1617282896",
+    "version": "1.3.0.1"
+  },
+  {
     "author": "Mehni",
     "name": "Pick Up And Haul",
     "steamId": null,
@@ -279,7 +285,7 @@
     "author": "Torann",
     "name": "A RimWorld of Magic",
     "steamId": "1201382956",
-    "version": "2.6.3.3"
+    "version": "2.6.4.1"
   },
   {
     "author": "Kure",
@@ -352,5 +358,35 @@
     "name": "Cybernetic Organism and Neural Network",
     "steamId": "2045064990",
     "version": "2.0.1.0"
+  },
+  {
+    "author": "Lanilor",
+    "name": "Simply More Bridges (Continued)",
+    "steamId": "2012484790",
+    "version": "1.3.1"
+  },
+  {
+    "author": "Sandy",
+    "name": "RPG Style Inventory Revamped",
+    "steamId": "2478833213",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "bodlosh",
+    "name": "WeaponStats",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Roolo",
+    "name": "Search and Destroy",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki,  Sarg Bjornson and  Chowder",
+    "name": "Vanilla Brewing Expanded",
+    "steamId": null,
+    "version": null
   }
 ]

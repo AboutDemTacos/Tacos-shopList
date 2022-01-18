@@ -572,6 +572,23 @@
       "mod": "ToolkitUtils"
     },
     "description": null,
+    "name": "Full heal",
+    "usage": "!fullheal",
+    "userLevel": "Anyone",
+    "shortcut": true
+  },
+  {
+    "data": {
+      "isShortcut": true,
+      "isBuy": false,
+      "isBalance": false,
+      "hasGlobalCooldown": false,
+      "globalCooldown": 0,
+      "hasLocalCooldown": false,
+      "localCooldown": 0,
+      "mod": "ToolkitUtils"
+    },
+    "description": null,
     "name": "Rescue me",
     "usage": "!rescueme",
     "userLevel": "Anyone",
@@ -812,6 +829,23 @@
     "description": null,
     "name": "Factions",
     "usage": "!factions",
+    "userLevel": "Anyone",
+    "shortcut": false
+  },
+  {
+    "data": {
+      "isShortcut": false,
+      "isBuy": false,
+      "isBalance": false,
+      "hasGlobalCooldown": false,
+      "globalCooldown": 0,
+      "hasLocalCooldown": false,
+      "localCooldown": 0,
+      "mod": "ToolkitUtils"
+    },
+    "description": "Shows the current research progress. If a project is specified, it'll show the progress of that instead.",
+    "name": "Research",
+    "usage": "!research [project/item]",
     "userLevel": "Anyone",
     "shortcut": false
   },
