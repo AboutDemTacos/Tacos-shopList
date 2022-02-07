@@ -12,12 +12,6 @@
     "version": "3.8.1038"
   },
   {
-    "author": "Oskar Potocki and  Smash Phil",
-    "name": "Vanilla Achievements Expanded",
-    "steamId": "2288125657",
-    "version": "1.3.7862.41411"
-  },
-  {
     "author": "Oskar Potocki,  Kikohi and  Helixien",
     "name": "Vanilla Events Expanded",
     "steamId": "1938420742",
@@ -51,7 +45,7 @@
     "author": "Oskar Potocki and  Sarg Bjornson",
     "name": "Vanilla Fishing Expanded",
     "steamId": "1914064942",
-    "version": "1.0.0.0"
+    "version": "1.3.7862.41411"
   },
   {
     "author": "Oskar Potocki,  XeoNovaDan and  erdelf",
@@ -78,12 +72,6 @@
     "version": "9.0.1"
   },
   {
-    "author": "Orion",
-    "name": "Hospitality",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "AUTOMATIC",
     "name": "Trader ships",
     "steamId": "2046222331",
@@ -94,12 +82,6 @@
     "name": "Scheduled Events (Continued)",
     "steamId": "2126125070",
     "version": "1.0.2.0"
-  },
-  {
-    "author": "Dubwise",
-    "name": "Dubs Bad Hygiene",
-    "steamId": "836308268",
-    "version": "2.7.7366"
   },
   {
     "author": "Dubwise",
@@ -172,18 +154,6 @@
     "name": "Show Draftees Weapon",
     "steamId": "1690978457",
     "version": "1.0.0.0"
-  },
-  {
-    "author": "Orion",
-    "name": "Cash Register",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Orion",
-    "name": "Gastronomy",
-    "steamId": null,
-    "version": null
   },
   {
     "author": "Little White Mouse",
@@ -270,6 +240,12 @@
     "version": "0.6.3.2196"
   },
   {
+    "author": "Roolo and Updated by Ogliss",
+    "name": "Dual Wield",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "YAYO & Ogliss",
     "name": "Yayo's Combat 3 [Adopted]",
     "steamId": "2513695736",
@@ -280,18 +256,6 @@
     "name": "CM Color Coded Mood Bar [1.1+]",
     "steamId": "2006605356",
     "version": "1.3.3136.1"
-  },
-  {
-    "author": "Torann",
-    "name": "A RimWorld of Magic",
-    "steamId": "1201382956",
-    "version": "2.6.4.1"
-  },
-  {
-    "author": "Kure",
-    "name": "Kure's Rimworld of Magic Class Expansion Pack",
-    "steamId": null,
-    "version": null
   },
   {
     "author": "hodlhodl",
@@ -354,16 +318,88 @@
     "version": null
   },
   {
-    "author": "Kikohi and  Trunken",
-    "name": "Cybernetic Organism and Neural Network",
-    "steamId": "2045064990",
-    "version": "2.0.1.0"
+    "author": "Oskar Potocki,  xrushha and  legodude17",
+    "name": "Vanilla Factions Expanded - Ancients",
+    "steamId": "2654846754",
+    "version": "1.0.0.0"
   },
   {
-    "author": "Lanilor",
-    "name": "Simply More Bridges (Continued)",
-    "steamId": "2012484790",
-    "version": "1.3.1"
+    "author": "Oskar Potocki,  Sarg Bjornson,  erdelf,  Roolo,  Smash Phil,  Taranchuk,  xrushha,  Kikohi and  legodude17",
+    "name": "Vanilla Factions Expanded - Pirates",
+    "steamId": "2723801948",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Oskar Potocki and  Kikohi",
+    "name": "Vanilla Storytellers Expanded - Winston Waves",
+    "steamId": "2734032569",
+    "version": "1.0.2.1"
+  },
+  {
+    "author": "Oskar Potocki,  Helixien,  Erin,  Luizi,  ISOREX and  erdelf",
+    "name": "Vanilla Textures Expanded",
+    "steamId": "2016436324",
+    "version": "1.0.0"
+  },
+  {
+    "author": "Neceros",
+    "name": "Bad Can Be Good",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Avius and  Hazzer",
+    "name": "Bad People",
+    "steamId": "1369675292",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Machine",
+    "name": "Raise The Roof 1.3",
+    "steamId": "1776143665",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Dubwise",
+    "name": "Dubs Mint Menus",
+    "steamId": "1446523594",
+    "version": "1.0.0"
+  },
+  {
+    "author": "Hob Took",
+    "name": "Trade UI Revised",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Tad",
+    "name": "Trading Control",
+    "steamId": "2007107588",
+    "version": "21.7.14.17"
+  },
+  {
+    "author": "Jecrell and lbmaian",
+    "name": "Doors Expanded",
+    "steamId": "1316188771",
+    "version": "1.4.0.2"
+  },
+  {
+    "author": "Trinity",
+    "name": "RuntimeGC [1.3]",
+    "steamId": "2559582557",
+    "version": "0.1.0.0"
+  },
+  {
+    "author": "Kiame Vivacity",
+    "name": "[KV] Adjustable Trade Ships",
+    "steamId": "1369828656",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Smash Phil | Dr_Zhivago",
+    "name": "Carry Capacity Fixed",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "Sandy",
@@ -372,26 +408,50 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "bodlosh",
-    "name": "WeaponStats",
+    "author": "Ykara",
+    "name": "EPOE No Table",
     "steamId": null,
     "version": null
   },
   {
-    "author": "Roolo",
-    "name": "Search and Destroy",
+    "author": "SickBoyWi",
+    "name": "Vault",
     "steamId": null,
     "version": null
   },
   {
-    "author": "Oskar Potocki,  Sarg Bjornson and  Chowder",
-    "name": "Vanilla Brewing Expanded",
+    "author": "Kosaro",
+    "name": "Fahrenheit and Celsius",
     "steamId": null,
     "version": null
   },
   {
-    "author": "Sarg Bjornson,  Chowder and  Trahspanda",
-    "name": "Vanilla Brewing Expanded - Coffees and Teas",
+    "author": "Murmur",
+    "name": "Infestations Spawn in Darkness",
+    "steamId": "2017514331",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "CANICVS",
+    "name": "Turtle Friendly Raids",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "The Biomes Mod Team",
+    "name": "Biomes! Core",
+    "steamId": "2038000893",
+    "version": "2.0.0-beta"
+  },
+  {
+    "author": "The Biomes Mod Team",
+    "name": "Biomes! Islands",
+    "steamId": "2038001322",
+    "version": "1.3.1.1"
+  },
+  {
+    "author": "Crustypeanut",
+    "name": "War Crimes Expanded 2 Core",
     "steamId": null,
     "version": null
   }

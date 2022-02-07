@@ -331,11 +331,6 @@
 		"karmatype": "Neutral"
 	},
 	{
-		"abr": "passionshuffle",
-		"price": 2000,
-		"karmatype": "Neutral"
-	},
-	{
 		"abr": "replacetrait",
 		"price": 1,
 		"karmatype": "Neutral"
@@ -349,16 +344,6 @@
 		"abr": "fullheal",
 		"price": 2167,
 		"karmatype": "Good"
-	},
-	{
-		"abr": "passion",
-		"price": 4000,
-		"karmatype": "Good"
-	},
-	{
-		"abr": "removepassion",
-		"price": 5000,
-		"karmatype": "Neutral"
 	},
 	{
 		"abr": "backpack",
@@ -411,5 +396,5 @@
 		"karmatype": "Good"
 	}
 	],
-	"total": 82
+	"total": 79
 }
