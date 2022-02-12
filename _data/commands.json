@@ -573,7 +573,7 @@
     },
     "description": "Upgrades a skill's passion... sometimes.",
     "name": "Add passion",
-    "usage": "!passion <skill>",
+    "usage": "!addpassion <skill>",
     "userLevel": "Anyone",
     "shortcut": true
   },
