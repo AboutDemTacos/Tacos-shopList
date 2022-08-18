@@ -117,7 +117,7 @@
 	},
 	{
 		"abr": "meteor",
-		"price": 3000,
+		"price": 1,
 		"karmatype": "Neutral"
 	},
 	{
@@ -346,6 +346,16 @@
 		"karmatype": "Good"
 	},
 	{
+		"abr": "passion",
+		"price": 7000,
+		"karmatype": "Good"
+	},
+	{
+		"abr": "removepassion",
+		"price": 5000,
+		"karmatype": "Neutral"
+	},
+	{
 		"abr": "backpack",
 		"price": 1,
 		"karmatype": "Neutral"
@@ -396,5 +406,5 @@
 		"karmatype": "Good"
 	}
 	],
-	"total": 79
+	"total": 81
 }
