@@ -1813,7 +1813,7 @@
       "bypassLimit": false,
       "data": {
         "canBypassLimit": false,
-        "customName": false,
+        "customName": true,
         "karmaTypeForRemoving": null,
         "mod": "RimWorld",
         "karmaTypeForAdding": null,
@@ -1825,7 +1825,7 @@
         ]
       },
       "defName": "Nimble",
-      "name": "sluggish",
+      "name": "sluggish2",
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3000,
